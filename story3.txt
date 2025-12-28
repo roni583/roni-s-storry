@@ -1,1 +1,2 @@
 story3.txt
+add some of content
